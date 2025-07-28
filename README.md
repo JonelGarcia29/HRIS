@@ -17,7 +17,7 @@ The HRIS website helps organizations manage various HR functions.
 - **Employee Performance**
 ![screenshot](HRIS/Employee_Performance.png)
 - **User Management**
-![screenshot](HRIS/User_Management.png)
+![screenshot](HRIS/User_Managament.png)
 - **Attendance**
 ![screenshot](HRIS/Attendance.png)
 
